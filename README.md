@@ -4,11 +4,8 @@ This is a Code Louisville project for the Python class.
 
 Teacher salaries across the US are in jepeordy due to decreased funding thoughout the education system and the attempt to privatize education using charter schools. Different states have different systems and pressures effecting teacher compensation.  The goal of this project is to enable the user to compare teacher salary trends between states of their choice over the last 20 years.  
 
-Part 2 (unfinished) will enable the user to compare teacher salaries vs other salaries to see if salaries are keeping pace with which occupations.  The data for this is in the included .xls files.
-
-
-The data set consists of 20 .xls files from the US Census Dept.    Each file holds the annual wage and salary data for all occupation titles.  20 files = 20 years.  
-
+Future development will enable the user to compare teacher salaries vs other salaries to see if salaries are keeping pace with which occupations.  The data for this is already in the .xls files.
+ 
 ## Project Process
 The data set consists of 20 .xls files from the US Census Dept.  Each file holds the annual wage and salary data for all occupation  titles.  20 files = 20 years. 
 
@@ -44,7 +41,8 @@ There are two cells to run in Jupyter Notebooks.  The first creates the database
         ```pip install seaborn==0.9.0``` in conda terminal
     * numpy (>= 1.14.3)
     * matplotlib (>= 2.2.2)
-    * scipy (>= 1.1.0)
+    * scipy (>= 1.1.0) 
+        * not used in project but requirement of Seaborn 0.9.0)
     * pandas (>= 0.23.0)
 
 ### Script to check your package versions:
