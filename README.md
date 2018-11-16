@@ -1,4 +1,7 @@
 # TeacherSalary
+### **CodeLouisville Python Project**
+John Napier - 502-643-2784
+
 ## Intro
 This is a Code Louisville project for the Python class.
 
