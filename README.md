@@ -7,7 +7,7 @@ Teacher salaries across the US are in jepeordy due to decreased funding thoughou
 Future development will enable the user to compare teacher salaries vs other salaries to see if salaries are keeping pace with which occupations.  The data for this is already in the .xls files.
  
 ## Project Process
-The data set consists of 20 .xls files from the US Census Dept.  Each file holds the annual wage and salary data for all occupation  titles.  20 files = 20 years. 
+The data set consists of 20 .xls files from the US Census Dept.  Each file holds the annual wage and salary data for all occupation  titles.  20 files = 20 years. __Loading data takes some time so please wait__
 
 File containing project code: **CLProject_Python_TeacherPay.ipynb**
 
@@ -16,8 +16,9 @@ File containing project code: **CLProject_Python_TeacherPay.ipynb**
     - Database created
     - Loop through each .xls file 
         - Load data into DataFrame
-        - Clean routine on data
+        - Clean data routine
         - Insert into TeacherPay table
+        - print affirmations per step
     - Consolidate just teacher pay into new table
         - Query TeacherPay table
         - Insert query results into ConTPay table
