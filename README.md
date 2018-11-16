@@ -9,10 +9,14 @@ The goal of this project is to enable the user to compare teacher salary trends 
 The data set consists of 20 .xls files from the US Census Dept.    Each file holds the annual wage and salary data for all occupation  titles.  20 files = 20 years.  
 
 ## Project Process
-In short, 
+First Jupyter Notebook Cell:
+    - database created
+
 
 ## Set Up
-This project was built using Jupyter Notebooks and includes the use of the Seaborn package and several others.  There are two cells to run in Jupyter Notebooks.  The first creates the database and tables while the second is the user interactive section that results in a graph of user selected parameters (comparison of states teacher salary trends).
+This project was built using Jupyter Notebooks and includes the use of the Seaborn package and several others.  
+
+There are two cells to run in Jupyter Notebooks.  The first creates the database and tables while the second is the user interactive section that results in a graph of user selected parameters (comparison of states teacher salary trends).
 
 ### Mandatory Dependencies:
 * Jupyter Notebooks with below environment
