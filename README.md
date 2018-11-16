@@ -9,7 +9,9 @@ Future development will enable the user to compare teacher salaries vs other sal
 ## Project Process
 The data set consists of 20 .xls files from the US Census Dept.  Each file holds the annual wage and salary data for all occupation  titles.  20 files = 20 years. 
 
-Process order
+File containing project code: **CLProject_Python_TeacherPay.ipynb**
+
+### Process order
 1. Jupyter Notebook Cell 1 :
     - Database created
     - Loop through each .xls file 
